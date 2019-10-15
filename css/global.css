@@ -12,6 +12,25 @@
   }
 }
 
+
+.station
+{
+    float: right;
+}
+/*
+.links
+{
+    float: right;
+}*/
+
+.entete{
+    border-bottom: solid #c9d1d8 1px !important;
+    background-color: white;
+    margin-bottom: 30px !important;
+    padding-top: 10px;
+    padding-bottom: 20px;
+} 
+
 @font-face {
     font-family: 'My Lucida';
     src: url('../font/LucidaGrande.ttf');
